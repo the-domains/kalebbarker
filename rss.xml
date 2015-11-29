@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KalebBarker]]></title>
         <description><![CDATA[KalebBarker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kalebbarker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 00:14:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 00:24:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kalebbarker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello! Welcome to the first post on my beta TheGrid site. Things will likely be a chaotic mess for a while, so if you wish, head on over to kalebbarker.com or check me out on Facebook (/kalebsbarker) or Twitter (@kalebbarker) until things settle down a bit. Or if you're brave enough to weather the storms, dive right in!</p>]]></description>
+            <link>https://thegrid.ai/kalebbarker/8a68714a-6c8e-441b-9427-628dac44f92f/index.html</link>
+            <guid isPermaLink="false">8a68714a-6c8e-441b-9427-628dac44f92f</guid>
+            <pubDate>Sun, 29 Nov 2015 00:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/kalebbarker/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">039141cf-89d3-48b3-93e0-a306bc83016a</guid>
             <pubDate>Sun, 29 Nov 2015 00:14:27 GMT</pubDate>
         </item>
