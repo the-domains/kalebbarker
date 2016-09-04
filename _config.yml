@@ -19,7 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: KalebBarker
+author:
+  name: Kaleb Barker
+  email: kalebbarker@gmail.com
+  url: kalebbarker.com
+name: Kaleb Barker
 cta:
   domain: null
   bucket: null
