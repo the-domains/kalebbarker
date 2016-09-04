@@ -1,19 +1,4 @@
-name: KalebBarker
-favicon: null
-layout_spectrum: 0.11323608038946986
 typography_spectrum: 0.31734
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,19 @@ color:
   lightness: 0.0018911552615463734
   saturation: 0.8696735324338078
   rhythmicContrast: 0.04923208290711045
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.11323608038946986
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: KalebBarker
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
